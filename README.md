@@ -35,4 +35,4 @@ Hi! 🙋 I'm Kamil, currently working at <a href="https://exlabs.com/">Exlabs</a
 ## 🎮 When I'm AFK:
 - Combat Sports 🤼 🥊
 - Champions League ⚽️
-- Perfume 🧴🌬️
+- Perfumes 🧴🌬️
