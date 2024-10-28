@@ -15,7 +15,7 @@ Hi! 🙋 I'm Kamil, currently working at <a href="https://exlabs.com/">Exlabs</a
 
 ## 💻 My Current Tech Stack:
 
-[![HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Node.js, Express, Prisma, AWS, Terraform, Postgres, GraphQL, Vite, Webpack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,prisma,aws,terraform,postgres,graphql,vite,webpack)](https://skillicons.dev)
+[![HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Styled Components, Node.js, Express, Prisma, AWS, Terraform, Postgres, MongoDB, GraphQL, Vite, Webpack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents,nodejs,express,prisma,aws,terraform,postgres,mongodb,graphql,vite,webpack)](https://skillicons.dev)
 
 ## 📚 Tech Stack I'm learning:
 
@@ -36,3 +36,12 @@ Hi! 🙋 I'm Kamil, currently working at <a href="https://exlabs.com/">Exlabs</a
 - Combat Sports 🤼 🥊
 - Champions League ⚽️
 - Perfumes 🧴🌬️
+
+## 👨‍💻 Projects I've done 
+
+<b>Typer 2024</b> <i>Next.js (React)</i> | <i>Tailwind</i> | <i>MongoDB</i>
+
+My colleague and I made an app to bet on matches during Euro 2024. Over 40 people took part in the game.
+
+[![YouTube](http://i.ytimg.com/vi/qlA7iejqvCk/hqdefault.jpg)](https://www.youtube.com/watch?v=qlA7iejqvCk)
+
