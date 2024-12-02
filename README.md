@@ -28,8 +28,8 @@ Hi! 🙋 I'm Kamil, currently working at <a href="https://exlabs.com/">Exlabs</a
 
 ## 📖 Read My Articles:
 
-- [CSS-in-JS Challenges: Adapting to Server Components & Server-Side Rendering with Zero-Runtime Solutions](https://medium.com/@kamil.kusy111/css-in-js-challenges-adapting-to-server-components-server-side-rendering-with-zero-runtime-9b8d22cac62a)
-- [Protect your data from Cross-Site Scripting Attacks with Content Security Policy](https://medium.com/@kamil.kusy111/protect-your-data-from-cross-site-scripting-attacks-with-content-security-policy-4731261f92c0)
+- [CSS-in-JS Challenges: Adapting to Server Components & Server-Side Rendering with Zero-Runtime Solutions](https://www.linkedin.com/pulse/css-in-js-challenges-adapting-server-components-server-side-rendering-5fgxf/?trackingId=Z5ohzUK5m2GWe3vxsIs55w%3D%3D)
+- [Protect your data from Cross-Site Scripting Attacks with Content Security Policy](https://exlabs.com/insights/boost-security-with-a-content-security-policy)
 
 
 ## 🎮 When I'm AFK:
