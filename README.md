@@ -45,3 +45,10 @@ My colleague and I made an app to bet on matches during Euro 2024. Over 40 peopl
 
 [![YouTube](http://i.ytimg.com/vi/qlA7iejqvCk/hqdefault.jpg)](https://www.youtube.com/watch?v=qlA7iejqvCk)
 
+------
+
+<b>AI Agent</b> <i>Node | OpenAI</i>
+
+AI Agent is a simple Node.js-based project that leverages OpenAI GPT and a set of tools, such as fetching posts from Reddit or generating images. The agent analyzes user queries, determines which tools to call, and returns responses enriched with the tools results.
+
+<img width="1499" alt="Pasted Graphic 3" src="https://github.com/user-attachments/assets/a78e156d-1c61-49b8-89f7-0a61890b097d" />
