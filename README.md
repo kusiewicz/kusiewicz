@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Hi! 🙋 I'm Kamil, currently working at <a href="https://exlabs.com/">Exlabs</a> as a Fullstack Developer.
+Hi! 🙋 I'm Kamil, currently working at <a href="https://exlabs.com/">Exlabs</a> as a Fullstack (Frontend) Developer.
 
 </div>
 
@@ -25,11 +25,6 @@ Hi! 🙋 I'm Kamil, currently working at <a href="https://exlabs.com/">Exlabs</a
 ## 🪦 Tech Stack I used before:
 
 [![Python, Django](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev)
-
-## 📖 Read My Articles:
-
-- [CSS-in-JS Challenges: Adapting to Server Components & Server-Side Rendering with Zero-Runtime Solutions](https://www.linkedin.com/pulse/css-in-js-challenges-adapting-server-components-server-side-rendering-5fgxf/?trackingId=Z5ohzUK5m2GWe3vxsIs55w%3D%3D)
-- [Protect your data from Cross-Site Scripting Attacks with Content Security Policy](https://exlabs.com/insights/boost-security-with-a-content-security-policy)
 
 
 ## 🎮 When I'm AFK:
