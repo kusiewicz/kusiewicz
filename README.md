@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Hi! 🙋 I'm Kamil, currently working at <a href="https://exlabs.com/">Exlabs</a> as a Fullstack (Frontend) Developer.
+Hi! 🙋 I'm Kamil, Fullstack (Frontend) Developer.
 
 </div>
 
